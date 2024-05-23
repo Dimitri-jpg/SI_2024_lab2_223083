@@ -6,12 +6,14 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class SILab2Test {
 
-    //private Item item1 = new Item("jogurt", "0123", 100, 0);
-    private Item item2 = new Item("jogurt", "a", 100, 0);
+    //private Item item1 = new Item("Dimitri", "0123", 100, 0);
+    private Item item2 = new Item("Dimitri", "a", 100, 0);
     private Item item3 = new Item(null, null, 100, 0);
-    private Item item4 = new Item("jogurt", "0123", 400, 0.5F);
-    private Item item5 = new Item("jogurt", "0123", 40, 0);
-    //List<Item> item1 = new List<Item>(item)
+    private Item item4 = new Item("Dimitri", "0123", 500, 0.5F);
+    private Item item5 = new Item("Dimitri", "0123", 30, 0);
+
+    private Item item6 = new Item("Dimitri", "0123", 400, 0.7F);
+    private Item item7 = new Item("Dimitri", "1978", 10, 0);
 
     private List<Item> createList(Item elems) {
         return new ArrayList<>(Arrays.asList(elems));
@@ -37,7 +39,9 @@ public class SILab2Test {
 
     @Test
     void multipleConditions(){
-        assertFalse(SILab2.checkCart(createList(item5), 10));
+        assertFalse(SILab2.checkCart(createList(item6), 10));
+
+        assertTrue(SILab2.checkCart(createList(item7), 10));
     }
 
 }
