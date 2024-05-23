@@ -14,7 +14,7 @@ Formula 3: Predikatni jazli se 7 od if i 2 od for -> 7+2+1 = 10
 4. Every branch kriterium
    ![image](https://github.com/Dimitri-jpg/SI_2024_lab2_223083/assets/78219844/237d2118-60da-4869-97b7-35a2f5b9a92a)
 
-So prvite tri test cases gi dobivam exceptions, dodeka cetvrtiot i pettiot test case se za true i false rezultati od kodot. Dokolku nekoi argumenti se izostaveni ili se ednakvi na anything, togas oni mozat da bidat ednakvi na bilo koja vrednost, dodeka tie argumenti koi se napisani so vrednosti se praveni so takvi kombinacii za site redovi da se izminat so 5 test cases.
+So prvite tri test cases gi dobivam exceptions, dodeka cetvrtiot i pettiot test case se za true i false rezultati od kodot. Dokolku nekoi argumenti se izostaveni ili se ednakvi na anything, togas tie mozat da bidat ednakvi na bilo koja vrednost, dodeka argumentite koi se napisani so vrednosti se praveni so takvi kombinacii za site redovi da se izminat so 5 test cases.
 
 5. Multiple condition kriterium
 
