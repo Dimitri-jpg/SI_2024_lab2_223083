@@ -12,7 +12,8 @@ Formula 2: 9 Regioni -> 9+1 = 10
 Formula 3: Predikatni jazli se 7 od if i 2 od for -> 7+2+1 = 10
 
 4. Every branch kriterium
-   ![image](https://github.com/Dimitri-jpg/SI_2024_lab2_223083/assets/78219844/c941305f-92f3-4206-80f7-644caf8486d5)
+   ![image](https://github.com/Dimitri-jpg/SI_2024_lab2_223083/assets/78219844/237d2118-60da-4869-97b7-35a2f5b9a92a)
+
 
 5. Multiple condition kriterium
 
